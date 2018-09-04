@@ -25,7 +25,7 @@ Learning how to think as a web developer is learning how to be an expert in prob
 1. Google! In English, type in the error message if there is one, search within the language you're using (ie CSS, JavaScript etc).
 2. Ask your code buddies in your Company.
 3. Ask your fellow students in Slack.
-4. Ask Damien or David. Please note: we are part of a sharing community - share the answer with your fellows.
+4. Ask David. Please note: we are part of a sharing community - share the answer with your fellows.
 
 ---
 
@@ -39,6 +39,7 @@ After completing this assignment, you should be comfortable using HTML tags to c
 
 Done with the main task? Here's some ideas for things to continue with:
 
-1. Make the photos look nice on retina displays (high pixel density) by using the large size version of the image and using CSS to scale down the image. [Read this](https://www.html5rocks.com/en/mobile/high-dpi/) for more information about this technique.
 1. Align the cards to the center of the page.
-1. Use box shadows to make the cards look like Polaroid pictures.
+2. Use box shadows to make the cards look like Polaroid pictures.
+3. Add more personality to your yearbook, look up CSS animations and add the ones you like.
+4. Originally, all images came in different sizes and ratios. As a developer that's a pretty common situation, for instance when you fetch images from an API or CMS you don't necessarily know what the ratio will be - you just have to make it work! How would you have solved this assignment if this were the case? Here you can find the [original photos](https://drive.google.com/file/d/1T8SmNqhzVzoESjMJB1N-MBYOdgHUE11h/view?usp=sharing) try and solve the assigment again but with these photos instead.
