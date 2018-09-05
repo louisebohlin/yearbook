@@ -1,7 +1,5 @@
-
-
 html {
-  background: #ffa7bf;
+  background: #0025FF;
   color: #fff;
 }
 
@@ -11,50 +9,14 @@ header {
 
 .logo {
   text-align: center;
+  display: inline-block;
   width: 200px;
   height: 200px;
   border-radius: 100%;
   background: #fff;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-
 }
 
 .logo img {
   width: 140px;
   margin-top: 55px;
-}
-
-.yearbook {
-  width: 95%;
-  margin-left: auto;
-  margin-right: auto;
-
-}
-
-.yearbook-card {
-  background-color: #dedee0;
-  text-align: center;
-  padding: 10px;
-  float: left;
-  margin-left: 5px;
-  margin-right: 5px;
-  margin-bottom: 10px;
-  height: 420px;
-  box-shadow: 2px 2px 2px lightgrey;
-
-}
-
-.yearbook-card img {
-  width: 270px;
-  height: auto;
-
-}
-
-p {
-  font-size: 17px;
-  font-family: 'Montserrat', sans-serif;
-  color: #3400ff;
-
 }
